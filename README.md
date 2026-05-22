@@ -38,8 +38,8 @@
 ## 🏆 Highlights & Experience
 
 * 💼 **Quantitative Finance Research Intern** @ Advanced Quantitative Analytics. Developed hybrid models for algorithmic trading, combining applied statistics, ML, and scalable data pipelines for large-scale alpha factor evaluation. 
-* 📈 **Competitive Programming:** **Codeforces Expert** (Max: 1634)| **CodeChef 3-Star** (Max: 1714).
-* 🎯 **Academic Excellence (JEE):** Ranked **AIR 499** in JEE Advanced (among 1.8 Lakh+ candidates) and **AIR 835** in JEE Mains (among 14.7 Lakh+ candidates). 
+* 📈 **Competitive Programming:** **Codeforces Expert** (Max: 1634) | **CodeChef 3-Star** (Max: 1714).
+* 🎯 **JEE 2024:** Ranked **AIR 499** in JEE Advanced (among 1.8 Lakh+ candidates) and **AIR 835** in JEE Mains (among 14.7 Lakh+ candidates). 
 
 ---
 
@@ -49,6 +49,11 @@
 * **Email:** [k.shreyansh@iitg.ac.in](mailto:k.shreyansh@iitg.ac.in)
 * **Codeforces:** [shreyansh.kumar](https://codeforces.com/profile/shreyansh.kumar)
 * **CodeChef:** [itzshreyansh](https://www.codechef.com/users/itzshreyansh)
+
+---
+<div align="center">
+  <img src="https://github.com/ishreyanshkumar/ishreyanshkumar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 ⭐ Check out my repositories!
