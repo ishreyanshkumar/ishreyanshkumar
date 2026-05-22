@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Shreyansh 👋
 
-<!--
-**ishreyanshkumar/ishreyanshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Sophomore @ IIT Guwahati
+💻 Systems | Quant | ML | Dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+* Research **Quantitative Finance** (RL trading agents, latent state-space compression, alpha generation).
+* Architect **High-Performance Systems** & low-latency developer tools in Rust and C++.
+* Build **Generative AI & ML pipelines** (Multimodal VLMs, Agentic RAG engines, RL for networks).
+* Explore **Hardware-Software co-design** (Custom RISC-V SoCs, FPGA accelerators).
+* Compete in **Algorithmic Problem Solving** (Codeforces Expert).
+
+---
+
+## 🛠️ Tech Stack
+
+`C/C++` `Python` `Rust` `Verilog` `JavaScript` `Solidity`
+`PyTorch` `Scikit-Learn` `HuggingFace` `LangChain` `ChromaDB`
+`Linux` `Docker` `Git` `React.js` `Node.js` `Ethereum`
+
+---
+
+## 🔥 Featured Work
+
+* 📊 **RL Algorithmic Trading Engine (Inter-IIT 4th Place):** Developed a PyTorch PPO RL trading agent achieving a **69% win rate** over 255 out-of-sample test days. Engineered a **VAE-XGBoost pipeline** to compress 200+ market features into a 64D latent space, and designed a custom risk-aware reward function that scaled PnL while strictly limiting max drawdown to **1.15%**.
+* 🚀 **Flux:** A high-performance, zero-latency terminal workflow manager built in **Rust**. Features an async telemetry pipeline using `Tokio` to capture background terminal activity, fast command retrieval, and an interactive TUI for shell analytics.
+* ⛓️ **CarbonX (Gold Medalist):** A distributed energy trading protocol on **Ethereum** utilizing **Circom zk-SNARKs** for privacy-preserving transaction validation. Engineered a high-throughput IoT telemetry pipeline using ESP32, HiveMQ, and Redis for real-time grid automation.
+* 📻 **Radio-Cortex:** An autonomous RL Network Controller for closed-loop **O-RAN** optimization. Synchronized an **ns-3** simulator and a PPO agent via a **Kafka E2** messaging bus, leveraging scale-free neural hubs to prune 85% of activations.
+* 👁️ **Vision-Language Multimodal Assistant:** Architected an MLLM fusing **Qwen2.5** and **ViT** via a custom MLP connector to map visual features to a semantic latent space. Fine-tuned with **LoRA** for complex visual reasoning and OCR.
+* 🧠 **Agentic RAG Engine:** Built a hierarchical memory engine using **LangChain** and **ChromaDB**, deploying Llama-3.1 via **Groq LPUs** for ultra-low latency real-time AI generation.
+* ⚡ **Custom RISC-V SoC & Hardware Search:** Developed a complete 5-stage RV32I core on a Nexys A7 FPGA (Verilog) with hardware M/F/Zbb extensions, featuring a hardware-accelerated fuzzy search pipeline (Bloom Filter, LZ77, AES-128).
+
+---
+
+## 🏆 Highlights & Experience
+
+* 💼 **Quantitative Finance Research Intern** @ Advanced Quantitative Analytics. Developed hybrid models for algorithmic trading, combining applied statistics, ML, and scalable data pipelines for large-scale alpha factor evaluation. 
+* 📈 **Competitive Programming:** **Codeforces Expert** (Max: 1634)| **CodeChef 3-Star** (Max: 1714).
+* 🎯 **Academic Excellence (JEE):** Ranked **AIR 499** in JEE Advanced (among 1.8 Lakh+ candidates) and **AIR 835** in JEE Mains (among 14.7 Lakh+ candidates). 
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/itzshreyansh](https://www.linkedin.com/in/itzshreyansh/)
+* **Email:** [k.shreyansh@iitg.ac.in](mailto:k.shreyansh@iitg.ac.in)
+* **Codeforces:** [shreyansh.kumar](https://codeforces.com/profile/shreyansh.kumar)
+* **CodeChef:** [itzshreyansh](https://www.codechef.com/users/itzshreyansh)
+
+---
+⭐ Check out my repositories!
