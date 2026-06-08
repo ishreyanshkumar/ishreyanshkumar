@@ -33,6 +33,7 @@
 * 👁️ **Vision-Language Multimodal Assistant:** Architected an MLLM fusing **Qwen2.5** and **ViT** via a custom MLP connector to map visual features to a semantic latent space. Fine-tuned with **LoRA** for complex visual reasoning, and implemented OpenCV-based canvas padding to eliminate spatial distortion and preserve aspect ratios for boosted OCR accuracy.
 * 🧠 **Agentic RAG Engine:** Built a hierarchical memory engine using **LangChain** and **ChromaDB**, partitioning system context across 4 separate vector stores. Engineered K-Means memory compression integrating a Knowledge Graph and VADER, deploying Llama-3.1 via **Groq LPUs** for ultra-low latency real-time generation.
 * ⚡ **Custom RISC-V SoC & Hardware Search:** Developed a complete 5-stage RV32I core on a Nexys A7 FPGA (Verilog) with hardware M/F/Zbb extensions, direct-mapped L1 caches, and a 2-bit BHT branch predictor. Engineered a fuzzy search pipeline managed by a custom DMA Sequencer, optimizing DP via a diagonal wavefront systolic array to reduce $O(n^2)$ to $O(n)$ cycles for spatial parallelism.
+
 ---
 
 ## 🏆 Highlights & Experience
